@@ -136,3 +136,10 @@ plt.show()
 
 # Results
 Thus,the Pulse code modulation and demodulation  is verified succesfully
+
+
+
+
+
+
+.
